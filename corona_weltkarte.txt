@@ -243,8 +243,8 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 29.6499,-90.1121,1,"Jefferson Parish, LA",0.0,0.0
 40.7909,-121.8474,1,"Shasta County, CA",0.0,0.0
 34.8606,-81.9535,1,"Spartanburg County, SC",0.0,0.0
-Iran,Iran,Iran,Iran,,
-Korea,Korea,Korea,Korea,,
+32.0,53.0,8042,Iran,,
+36.0,128.0,7513,Korea,,
 47.4009,-121.4905,267,Washington,23.0,1.0
 42.1657,-74.9481,173,New York,0.0,0.0
 36.1162,-119.6816,144,California,2.0,2.0
