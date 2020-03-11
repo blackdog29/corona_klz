@@ -1,4 +1,4 @@
-Datum,Bestätigte Fälle,Tode,Heilungen,Aktuelle Erkrankungen
+Datum,Bestätigte Fälle,Todesfälle,Geheilte,Aktuelle Erkrankungen
 1/22/20,555,17,28,510
 1/23/20,653,18,30,605
 1/24/20,941,26,36,879
