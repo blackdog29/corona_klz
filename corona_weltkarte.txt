@@ -224,194 +224,194 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 -21.1151,55.5364,1,Reunion,0,0
 38.9637,35.2433,1,Turkey,0,0
 36.1408,-5.3536,1,Gibraltar,0,1
-47.6477,-122.6413,2,"Kitsap, WA",0,0
-38.3105,-121.9018,3,"Solano, CA",0,0
-37.0454,-121.958,2,"Santa Cruz, CA",0,0
-38.5025,-122.2654,1,"Napa, CA",0,0
-34.3705,-119.1391,1,"Ventura, CA",0,0
-42.4097,-71.8571,1,"Worcester, MA",0,0
-33.9191,-84.0167,2,"Gwinnett, GA",0,0
-33.7956,-84.2279,2,"DeKalb, GA",0,0
-37.5455,-82.7779,1,"Floyd, GA",0,0
-33.4502,-84.4803,1,"Fayette, GA",0,0
-32.4893,-94.8521,1,"Gregg, TX",0,0
-40.2589,-74.124,4,"Monmouth, NJ",0,0
-40.0712,-74.8649,2,"Burlington, NJ",0,0
-39.9259,-75.1196,1,"Camden, NJ",0,0
-40.8568,-74.1285,1,"Passaic, NJ",0,0
-40.6976,-74.2632,1,"Union, NJ",0,0
-39.6553,-106.8287,4,"Eagle, CO",0,0
-40.6956,-105.5943,1,"Larimer, CO",0,0
-39.6203,-104.3326,3,"Arapahoe, CO",0,0
-38.5458,-106.9253,5,"Gunnison, CO",0,0
-41.9879,-88.4016,1,"Kane, IL",0,0
-41.0458,-75.2479,2,"Monroe, PA",0,0
-39.9526,-75.1652,1,"Philadelphia, PA",0,0
-36.8508,-76.2859,2,"Norfolk, VA",0,0
-38.8816,-77.09100000000001,1,"Arlington, VA",0,0
-38.2042,-77.6078,1,"Spotsylvania, VA",0,0
-39.0768,-77.6536,1,"Loudoun, VA",0,0
-38.7849,-76.8721,3,"Prince George's, MD",0,0
-41.3912,-95.4778,1,"Pottawattamie, IA",0,0
-34.2465,-80.607,4,"Camden, NC",0,0
-32.0575,-111.6661,1,"Pima, AZ",0,0
-41.4277,-85.355,1,"Noble, IN",0,0
-39.8522,-77.2865,1,"Adams, IN",0,0
-40.0106,-86.4997,1,"Boone, IN",0,0
-43.0186,-89.5498,2,"Dane, WI",0,1
-44.7509,-92.3814,2,"Pierce, WI",0,0
-41.4339,-81.6758,3,"Cuyahoga, OH",0,0
-41.2603,-111.9522,1,"Weber, UT",0,0
-43.0279,-73.135,1,"Bennington County, VT",0,0
-44.8254,-93.7842,1,"Carver County, MN",0,0
-26.8946,-81.9098,1,"Charlotte County, FL",0,0
-34.2515,-84.4803,1,"Cherokee County, GA",0,0
-33.1795,-96.493,3,"Collin County, TX",0,0
-38.1938,-85.6435,1,"Jefferson County, KY",0,0
-29.6499,-90.1121,1,"Jefferson Parish, LA",0,0
-40.7909,-121.8474,1,"Shasta County, CA",0,0
-34.8606,-81.9535,1,"Spartanburg County, SC",0,0
-38.4333,-84.3542,5,"Harrison County, KY",0,0
-41.6699,-91.5984,12,"Johnson County, IA",0,0
-42.3118,-73.1822,7,"Berkshire County, MA",0,0
-36.1343,-86.822,2,"Davidson County, TN",0,0
-43.1261,-123.2492,1,"Douglas County, OR",0,0
-36.9859,-119.2321,2,"Fresno County, CA",0,0
-39.5839,-76.3637,1,"Harford County, MD",0,0
-39.8065,-86.5401,2,"Hendricks County, IN",0,0
-40.7453,-74.0535,1,"Hudson County, NJ",0,0
-38.8454,-94.8521,1,"Johnson County, KS",0,0
-47.175,-120.9319,1,"Kittitas County, WA",0,0
-27.4799,-82.3452,2,"Manatee County, FL",0,0
-44.8446,-122.5927,2,"Marion County, OR",0,0
-30.5773,-86.6611,1,"Okaloosa County, FL",0,0
-34.0132,-85.1479,1,"Polk County, GA",0,0
-33.9533,-117.3961,6,"Riverside County, CA",0,0
-35.1269,-89.9253,1,"Shelby County, TN",0,0
-38.6103,-90.4125,1,"St. Louis County, MO",0,0
-40.9849,-72.6151,6,"Suffolk County, NY",0,0
-41.8586,-74.3118,2,"Ulster County, NY",0,0
-29.028000000000002,-81.0755,2,"Volusia County, FL",0,0
-38.9085,-77.2405,3,"Fairfax County, VA",0,0
-42.9931,-71.0498,2,"Rockingham County, NH",0,0
-38.9072,-77.0369,4,"Washington, D.C.",0,0
-40.229,-75.3879,9,"Montgomery County, PA",0,0
-37.6017,-121.7195,5,"Alameda County, CA",0,0
-26.1901,-80.3659,4,"Broward County, FL",0,0
-26.663,-81.9535,2,"Lee County, FL",1,0
-32.8162,-111.2845,5,"Pinal County, AZ",0,0
-41.1489,-73.983,6,"Rockland County, NY",0,0
-43.0324,-73.936,2,"Saratoga County, NY",0,0
-32.7957,-79.7848,1,"Charleston County, SC",0,0
-45.7466,-122.5194,1,"Clark County, WA",0,0
-33.8999,-84.5641,7,"Cobb County, GA",0,0
-40.9629,-112.0953,1,"Davis County, UT",0,0
-38.9108,-104.4723,1,"El Paso County, CO",0,0
-21.307,-157.8584,2,"Honolulu County, HI",0,0
-42.3345,-122.7647,2,"Jackson County, OR ",0,0
-47.7425,-123.304,1,"Jefferson County, WA",0,0
-34.3672,-80.5883,3,"Kershaw County, SC",0,0
-42.6953,-121.6142,1,"Klamath County, OR",0,0
-37.2519,-119.6963,1,"Madera County, CA",0,0
-47.0676,-122.1295,14,"Pierce County, WA",0,0
-36.1593,-95.941,2,"Tulsa County, OK",0,0
-39.2587,-104.9389,3,"Douglas County, CO",0,0
-41.8882,-71.4774,5,"Providence County, RI",0,0
-35.7211,-79.1781,1,"Chatham County, NC",0,0
-39.9078,-75.3879,1,"Delaware County, PA",0,0
-41.3148,-96.1951,4,"Douglas County, NE",0,0
-38.0606,-84.4803,2,"Fayette County, KY",0,0
-39.8362,-86.1752,1,"Marion County, IN",0,0
-42.4672,-71.2874,41,"Middlesex County, MA",0,0
-40.6546,-73.5594,28,"Nassau County, NY",0,0
-44.9964,-93.0616,2,"Ramsey County, MN",0,0
-40.5608,-119.6035,2,"Washoe County, NV",0,0
-41.6739,-75.2479,1,"Wayne County, PA",0,0
-38.7646,-121.9018,1,"Yolo County, CA",0,0
-37.3541,-121.9552,48,"Santa Clara County, CA",1,1
-36.0796,-115.094,5,"Clark County, NV",0,0
-29.5693,-95.8143,6,"Fort Bend County, TX",0,0
-47.1981,-119.3732,1,"Grant County, WA",1,0
-30.769000000000002,-86.9824,1,"Santa Rosa County, FL",1,0
-35.9179,-86.8622,5,"Williamson County, TN",0,0
-40.7128,-74.006,55,"New York County, NY",0,0
-39.1547,-77.2405,5,"Montgomery County, MD",0,0
-42.3601,-71.0589,20,"Suffolk County, MA",0,1
-39.7392,-104.9903,6,"Denver County, CO",0,0
-39.5912,-106.064,1,"Summit County, CO",0,0
-40.9263,-74.077,11,"Bergen County, NJ",1,0
-29.7752,-95.3103,7,"Harris County, TX",0,0
-37.7749,-122.4194,14,"San Francisco County, CA",0,0
-37.8534,-121.9018,10,"Contra Costa County, CA",0,0
-33.7879,-117.8531,5,"Orange County, CA",0,0
-42.1767,-71.1449,22,"Norfolk County, MA",0,0
-33.2918,-112.4291,3,"Maricopa County, AZ",0,1
-35.8032,-78.5661,6,"Wake County, NC",0,0
-41.122,-73.7949,121,"Westchester County, NY",0,0
-43.9088,-71.82600000000001,3,"Grafton County, NH",0,0
-27.9904,-82.3018,3,"Hillsborough, FL",0,0
-39.0916,-120.8039,7,"Placer County, CA",1,0
-37.563,-122.3255,15,"San Mateo, CA",0,0
-38.578,-122.9888,3,"Sonoma County, CA",0,0
-45.775,-118.7606,2,"Umatilla, OR",0,0
-33.8034,-84.3963,7,"Fulton County, GA",0,0
-45.547,-123.1386,8,"Washington County, OR",0,0
-48.033,-121.8339,68,"Snohomish County, WA",1,0
-40.745,-123.8695,1,"Humboldt County, CA",0,0
-38.4747,-121.3542,11,"Sacramento County, CA",1,1
-32.7157,-117.1611,3,"San Diego County, CA",0,1
-36.5761,-120.9876,2,"San Benito, CA",0,2
-34.0522,-118.2437,27,"Los Angeles, CA",1,0
-47.6062,-122.3321,190,"King County, WA",22,1
-41.7377,-87.6976,22,"Cook County, IL",0,2
-48.4242,-121.7114,1,"Skagit, WA",0,0
-46.8646,-122.7696,1,"Thurston, WA",0,0
-48.1976,-122.5795,1,"Island, WA",0,0
-48.8787,-121.9719,1,"Whatcom, WA",0,0
-38.0834,-122.7633,1,"Marin, CA",0,0
-38.196,-120.6805,2,"Calaveras, CA",0,0
-37.5091,-120.9876,2,"Stanislaus, CA",0,0
-36.6066,-120.189,1,"San Joaquin, CA",0,0
-42.632,-70.7829,1,"Essex, MA",0,0
-30.7917,-82.0843,1,"Charlton, GA",0,0
-26.07,-81.4279,3,"Collier, FL",0,0
-27.8764,-82.7779,2,"Pinellas, FL",0,0
-29.7938,-82.4944,1,"Alachua, FL",0,0
-30.5927,-81.8224,1,"Nassau, FL",0,0
-28.3232,-82.4319,1,"Pasco, FL",0,0
-32.7767,-96.79700000000001,2,"Dallas, TX",0,0
-32.7732,-97.3517,1,"Tarrant, TX",0,0
-30.3883,-95.6963,1,"Montgomery, TX",0,0
-40.5726,-74.4927,2,"Middlesex, NJ",0,0
-39.58,-105.2663,3,"Jefferson, CO",0,0
-45.5146,-122.5863,1,"Multnomah, OR",0,0
-44.9267,-123.4919,1,"Polk, OR",0,0
-43.8325,-121.2617,1,"Deschutes, OR",0,0
-42.3334,-88.2668,1,"McHenry, IL",0,0
-42.3689,-87.8272,1,"Lake, IL",0,0
-40.4108,-75.2479,1,"Bucks, PA",0,0
-37.7772,-77.5161,1,"Hanover, VA",0,0
-34.7253,-80.6771,1,"Lancaster, SC",0,0
-36.4933,-82.3452,1,"Sullivan, TN",0,0
-39.4638,-86.1345,3,"Johnson, IN",0,0
-40.4483,-86.1345,1,"Howard, IN",0,0
-41.6228,-86.3377,1,"St. Joseph, IN",0,0
-42.6712,-97.8722,1,"Knox, NE",0,0
-40.8685,-81.2519,1,"Stark, OH",0,0
-45.3293,-93.2197,1,"Anoka, MN",0,0
-43.9952,-92.3814,1,"Olmsted, MN",0,0
-40.8298,-110.9984,1,"Summit, UT",0,0
-41.256,-73.3709,2,"Fairfield, CT",0,0
-41.7866,-73.2765,1,"Litchfield, CT",0,0
-29.9511,-90.0715,5,"Orleans, LA",0,0
-43.8901,-102.2548,1,"Pennington, SD",1,0
-44.4797,-98.2213,1,"Beadle, SD",0,0
-43.0985,-98.3965,1,"Charles Mix, SD",0,0
-43.7242,-98.2213,1,"Davison, SD",0,0
-43.6632,-96.8351,3,"Minnehaha, SD",0,0
-42.9815,-97.8722,1,"Bon Homme, SD",0,0
-33.8837,-106.7235,2,"Socorro, NM",0,0
-35.0178,-106.6291,1,"Bernalillo, NM",0,0
-42.5922,-83.3362,1,"Oakland, MI",0,0
-42.2791,-83.3362,1,"Wayne, MI",0,0
-39.5393,-75.6674,1,"New Castle, DE",0,0
+47.6477,-122.6413,0,"Kitsap, WA",0,0
+38.3105,-121.9018,0,"Solano, CA",0,0
+37.0454,-121.958,0,"Santa Cruz, CA",0,0
+38.5025,-122.2654,0,"Napa, CA",0,0
+34.3705,-119.1391,0,"Ventura, CA",0,0
+42.4097,-71.8571,0,"Worcester, MA",0,0
+33.9191,-84.0167,0,"Gwinnett, GA",0,0
+33.7956,-84.2279,0,"DeKalb, GA",0,0
+37.5455,-82.7779,0,"Floyd, GA",0,0
+33.4502,-84.4803,0,"Fayette, GA",0,0
+32.4893,-94.8521,0,"Gregg, TX",0,0
+40.2589,-74.124,0,"Monmouth, NJ",0,0
+40.0712,-74.8649,0,"Burlington, NJ",0,0
+39.9259,-75.1196,0,"Camden, NJ",0,0
+40.8568,-74.1285,0,"Passaic, NJ",0,0
+40.6976,-74.2632,0,"Union, NJ",0,0
+39.6553,-106.8287,0,"Eagle, CO",0,0
+40.6956,-105.5943,0,"Larimer, CO",0,0
+39.6203,-104.3326,0,"Arapahoe, CO",0,0
+38.5458,-106.9253,0,"Gunnison, CO",0,0
+41.9879,-88.4016,0,"Kane, IL",0,0
+41.0458,-75.2479,0,"Monroe, PA",0,0
+39.9526,-75.1652,0,"Philadelphia, PA",0,0
+36.8508,-76.2859,0,"Norfolk, VA",0,0
+38.8816,-77.09100000000001,0,"Arlington, VA",0,0
+38.2042,-77.6078,0,"Spotsylvania, VA",0,0
+39.0768,-77.6536,0,"Loudoun, VA",0,0
+38.7849,-76.8721,0,"Prince George's, MD",0,0
+41.3912,-95.4778,0,"Pottawattamie, IA",0,0
+34.2465,-80.607,0,"Camden, NC",0,0
+32.0575,-111.6661,0,"Pima, AZ",0,0
+41.4277,-85.355,0,"Noble, IN",0,0
+39.8522,-77.2865,0,"Adams, IN",0,0
+40.0106,-86.4997,0,"Boone, IN",0,0
+43.0186,-89.5498,0,"Dane, WI",0,0
+44.7509,-92.3814,0,"Pierce, WI",0,0
+41.4339,-81.6758,0,"Cuyahoga, OH",0,0
+41.2603,-111.9522,0,"Weber, UT",0,0
+43.0279,-73.135,0,"Bennington County, VT",0,0
+44.8254,-93.7842,0,"Carver County, MN",0,0
+26.8946,-81.9098,0,"Charlotte County, FL",0,0
+34.2515,-84.4803,0,"Cherokee County, GA",0,0
+33.1795,-96.493,0,"Collin County, TX",0,0
+38.1938,-85.6435,0,"Jefferson County, KY",0,0
+29.6499,-90.1121,0,"Jefferson Parish, LA",0,0
+40.7909,-121.8474,0,"Shasta County, CA",0,0
+34.8606,-81.9535,0,"Spartanburg County, SC",0,0
+38.4333,-84.3542,0,"Harrison County, KY",0,0
+41.6699,-91.5984,0,"Johnson County, IA",0,0
+42.3118,-73.1822,0,"Berkshire County, MA",0,0
+36.1343,-86.822,0,"Davidson County, TN",0,0
+43.1261,-123.2492,0,"Douglas County, OR",0,0
+36.9859,-119.2321,0,"Fresno County, CA",0,0
+39.5839,-76.3637,0,"Harford County, MD",0,0
+39.8065,-86.5401,0,"Hendricks County, IN",0,0
+40.7453,-74.0535,0,"Hudson County, NJ",0,0
+38.8454,-94.8521,0,"Johnson County, KS",0,0
+47.175,-120.9319,0,"Kittitas County, WA",0,0
+27.4799,-82.3452,0,"Manatee County, FL",0,0
+44.8446,-122.5927,0,"Marion County, OR",0,0
+30.5773,-86.6611,0,"Okaloosa County, FL",0,0
+34.0132,-85.1479,0,"Polk County, GA",0,0
+33.9533,-117.3961,0,"Riverside County, CA",0,0
+35.1269,-89.9253,0,"Shelby County, TN",0,0
+38.6103,-90.4125,0,"St. Louis County, MO",0,0
+40.9849,-72.6151,0,"Suffolk County, NY",0,0
+41.8586,-74.3118,0,"Ulster County, NY",0,0
+29.028000000000002,-81.0755,0,"Volusia County, FL",0,0
+38.9085,-77.2405,0,"Fairfax County, VA",0,0
+42.9931,-71.0498,0,"Rockingham County, NH",0,0
+38.9072,-77.0369,0,"Washington, D.C.",0,0
+40.229,-75.3879,0,"Montgomery County, PA",0,0
+37.6017,-121.7195,0,"Alameda County, CA",0,0
+26.1901,-80.3659,0,"Broward County, FL",0,0
+26.663,-81.9535,0,"Lee County, FL",1,0
+32.8162,-111.2845,0,"Pinal County, AZ",0,0
+41.1489,-73.983,0,"Rockland County, NY",0,0
+43.0324,-73.936,0,"Saratoga County, NY",0,0
+32.7957,-79.7848,0,"Charleston County, SC",0,0
+45.7466,-122.5194,0,"Clark County, WA",0,0
+33.8999,-84.5641,0,"Cobb County, GA",0,0
+40.9629,-112.0953,0,"Davis County, UT",0,0
+38.9108,-104.4723,0,"El Paso County, CO",0,0
+21.307,-157.8584,0,"Honolulu County, HI",0,0
+42.3345,-122.7647,0,"Jackson County, OR ",0,0
+47.7425,-123.304,0,"Jefferson County, WA",0,0
+34.3672,-80.5883,0,"Kershaw County, SC",0,0
+42.6953,-121.6142,0,"Klamath County, OR",0,0
+37.2519,-119.6963,0,"Madera County, CA",0,0
+47.0676,-122.1295,0,"Pierce County, WA",0,0
+36.1593,-95.941,0,"Tulsa County, OK",0,0
+39.2587,-104.9389,0,"Douglas County, CO",0,0
+41.8882,-71.4774,0,"Providence County, RI",0,0
+35.7211,-79.1781,0,"Chatham County, NC",0,0
+39.9078,-75.3879,0,"Delaware County, PA",0,0
+41.3148,-96.1951,0,"Douglas County, NE",0,0
+38.0606,-84.4803,0,"Fayette County, KY",0,0
+39.8362,-86.1752,0,"Marion County, IN",0,0
+42.4672,-71.2874,0,"Middlesex County, MA",0,0
+40.6546,-73.5594,0,"Nassau County, NY",0,0
+44.9964,-93.0616,0,"Ramsey County, MN",0,0
+40.5608,-119.6035,0,"Washoe County, NV",0,0
+41.6739,-75.2479,0,"Wayne County, PA",0,0
+38.7646,-121.9018,0,"Yolo County, CA",0,0
+37.3541,-121.9552,0,"Santa Clara County, CA",1,0
+36.0796,-115.094,0,"Clark County, NV",0,0
+29.5693,-95.8143,0,"Fort Bend County, TX",0,0
+47.1981,-119.3732,0,"Grant County, WA",1,0
+30.769000000000002,-86.9824,0,"Santa Rosa County, FL",1,0
+35.9179,-86.8622,0,"Williamson County, TN",0,0
+40.7128,-74.006,0,"New York County, NY",0,0
+39.1547,-77.2405,0,"Montgomery County, MD",0,0
+42.3601,-71.0589,0,"Suffolk County, MA",0,0
+39.7392,-104.9903,0,"Denver County, CO",0,0
+39.5912,-106.064,0,"Summit County, CO",0,0
+40.9263,-74.077,0,"Bergen County, NJ",1,0
+29.7752,-95.3103,0,"Harris County, TX",0,0
+37.7749,-122.4194,0,"San Francisco County, CA",0,0
+37.8534,-121.9018,0,"Contra Costa County, CA",0,0
+33.7879,-117.8531,0,"Orange County, CA",0,0
+42.1767,-71.1449,0,"Norfolk County, MA",0,0
+33.2918,-112.4291,0,"Maricopa County, AZ",0,0
+35.8032,-78.5661,0,"Wake County, NC",0,0
+41.122,-73.7949,0,"Westchester County, NY",0,0
+43.9088,-71.82600000000001,0,"Grafton County, NH",0,0
+27.9904,-82.3018,0,"Hillsborough, FL",0,0
+39.0916,-120.8039,0,"Placer County, CA",1,0
+37.563,-122.3255,0,"San Mateo, CA",0,0
+38.578,-122.9888,0,"Sonoma County, CA",0,0
+45.775,-118.7606,0,"Umatilla, OR",0,0
+33.8034,-84.3963,0,"Fulton County, GA",0,0
+45.547,-123.1386,0,"Washington County, OR",0,0
+48.033,-121.8339,0,"Snohomish County, WA",1,0
+40.745,-123.8695,0,"Humboldt County, CA",0,0
+38.4747,-121.3542,0,"Sacramento County, CA",1,0
+32.7157,-117.1611,0,"San Diego County, CA",0,0
+36.5761,-120.9876,0,"San Benito, CA",0,0
+34.0522,-118.2437,0,"Los Angeles, CA",1,0
+47.6062,-122.3321,0,"King County, WA",22,0
+41.7377,-87.6976,0,"Cook County, IL",0,0
+48.4242,-121.7114,0,"Skagit, WA",0,0
+46.8646,-122.7696,0,"Thurston, WA",0,0
+48.1976,-122.5795,0,"Island, WA",0,0
+48.8787,-121.9719,0,"Whatcom, WA",0,0
+38.0834,-122.7633,0,"Marin, CA",0,0
+38.196,-120.6805,0,"Calaveras, CA",0,0
+37.5091,-120.9876,0,"Stanislaus, CA",0,0
+36.6066,-120.189,0,"San Joaquin, CA",0,0
+42.632,-70.7829,0,"Essex, MA",0,0
+30.7917,-82.0843,0,"Charlton, GA",0,0
+26.07,-81.4279,0,"Collier, FL",0,0
+27.8764,-82.7779,0,"Pinellas, FL",0,0
+29.7938,-82.4944,0,"Alachua, FL",0,0
+30.5927,-81.8224,0,"Nassau, FL",0,0
+28.3232,-82.4319,0,"Pasco, FL",0,0
+32.7767,-96.79700000000001,0,"Dallas, TX",0,0
+32.7732,-97.3517,0,"Tarrant, TX",0,0
+30.3883,-95.6963,0,"Montgomery, TX",0,0
+40.5726,-74.4927,0,"Middlesex, NJ",0,0
+39.58,-105.2663,0,"Jefferson, CO",0,0
+45.5146,-122.5863,0,"Multnomah, OR",0,0
+44.9267,-123.4919,0,"Polk, OR",0,0
+43.8325,-121.2617,0,"Deschutes, OR",0,0
+42.3334,-88.2668,0,"McHenry, IL",0,0
+42.3689,-87.8272,0,"Lake, IL",0,0
+40.4108,-75.2479,0,"Bucks, PA",0,0
+37.7772,-77.5161,0,"Hanover, VA",0,0
+34.7253,-80.6771,0,"Lancaster, SC",0,0
+36.4933,-82.3452,0,"Sullivan, TN",0,0
+39.4638,-86.1345,0,"Johnson, IN",0,0
+40.4483,-86.1345,0,"Howard, IN",0,0
+41.6228,-86.3377,0,"St. Joseph, IN",0,0
+42.6712,-97.8722,0,"Knox, NE",0,0
+40.8685,-81.2519,0,"Stark, OH",0,0
+45.3293,-93.2197,0,"Anoka, MN",0,0
+43.9952,-92.3814,0,"Olmsted, MN",0,0
+40.8298,-110.9984,0,"Summit, UT",0,0
+41.256,-73.3709,0,"Fairfield, CT",0,0
+41.7866,-73.2765,0,"Litchfield, CT",0,0
+29.9511,-90.0715,0,"Orleans, LA",0,0
+43.8901,-102.2548,0,"Pennington, SD",1,0
+44.4797,-98.2213,0,"Beadle, SD",0,0
+43.0985,-98.3965,0,"Charles Mix, SD",0,0
+43.7242,-98.2213,0,"Davison, SD",0,0
+43.6632,-96.8351,0,"Minnehaha, SD",0,0
+42.9815,-97.8722,0,"Bon Homme, SD",0,0
+33.8837,-106.7235,0,"Socorro, NM",0,0
+35.0178,-106.6291,0,"Bernalillo, NM",0,0
+42.5922,-83.3362,0,"Oakland, MI",0,0
+42.2791,-83.3362,0,"Wayne, MI",0,0
+39.5393,-75.6674,0,"New Castle, DE",0,0
