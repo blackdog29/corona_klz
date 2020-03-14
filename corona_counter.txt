@@ -1,4 +1,4 @@
 Region,Bild,Bestätigte Fälle,Tode,Heilungen
-Österreich,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/corona-austria.png,602,1,6
+Österreich,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/corona-austria.png,655,1,6
 Europa,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/corona-europe.png,38.274,1.532,1.743
 Welt,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/corona-world.png,145.193,5.404,70.251
