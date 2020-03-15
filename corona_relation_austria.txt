@@ -17,3 +17,4 @@ Datum,Bestätigte Fälle,Todesfälle,Geheilte,Aktuelle Erkrankungen
 3/11/20,246,0,4,242
 3/12/20,302,1,4,297
 3/13/20,504,1,6,497
+3/14/20,655,1,6,648
