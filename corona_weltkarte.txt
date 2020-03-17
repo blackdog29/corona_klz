@@ -424,10 +424,6 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 55.3781,-3.4360000000000004,1543,Vereinigtes Königreich,55,20
 48.0196,66.9237,10,Kasachstan,0,0
 -17.6797,149.4068,3,French Polynesia,0,0
-16.265,-61.551,6,Guadeloupe,0,0
-16.265,-61.551,6,Guadeloupe,0,0
-16.265,-61.551,6,Guadeloupe,0,0
-16.265,-61.551,6,Guadeloupe,0,0
 53.7609,-98.8139,7,Manitoba,0,0
 52.9399,-106.4509,7,Saskatchewan,0,0
 9.145,40.4897,5,Äthiopien,0,0
@@ -462,10 +458,10 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 12.9843,-61.2872,1,St. Vinzenz und die Grenadinen,0,0
 3.9193,-56.0278,1,Surinam,0,0
 31.9522,35.2332,0,Besetztes palästinensisches Gebiet,0,0
-3.9339,-53.1258,5,French Guiana,0,0
-3.9339,-53.1258,5,French Guiana,0,0
-3.9339,-53.1258,5,French Guiana,0,0
-3.9339,-53.1258,5,French Guiana,0,0
+3.9339,-53.1258,11,French Guiana,0,0
+3.9339,-53.1258,11,French Guiana,0,0
+3.9339,-53.1258,11,French Guiana,0,0
+3.9339,-53.1258,11,French Guiana,0,0
 13.4443,144.7937,3,Guam,0,0
 13.4443,144.7937,3,Guam,0,0
 13.4443,144.7937,3,Guam,0,0
@@ -485,30 +481,14 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 -12.8275,45.1662,1,Mayotte,0,0
 41.3775,64.5853,6,Usbekistan,0,0
 52.1326,5.2913,1413,Niederlande,24,2
-3.9339,-53.1258,11,French Guiana,0,0
-3.9339,-53.1258,11,French Guiana,0,0
-3.9339,-53.1258,11,French Guiana,0,0
-3.9339,-53.1258,11,French Guiana,0,0
 44.681999999999995,-63.7443,5,Nova Scotia,0,0
-16.25,-61.5833,3,Guadeloupe,0,0
-16.25,-61.5833,3,Guadeloupe,0,0
-16.25,-61.5833,3,Guadeloupe,0,0
-16.25,-61.5833,3,Guadeloupe,0,0
-13.4443,144.7937,3,Guam,0,0
-13.4443,144.7937,3,Guam,0,0
-13.4443,144.7937,3,Guam,0,0
-13.4443,144.7937,3,Guam,0,0
-18.2,-66.5,3,Puerto Rico,0,0
-18.2,-66.5,3,Puerto Rico,0,0
-18.2,-66.5,3,Puerto Rico,0,0
-18.2,-66.5,3,Puerto Rico,0,0
+16.25,-61.5833,6,Guadeloupe,0,0
+16.25,-61.5833,6,Guadeloupe,0,0
+16.25,-61.5833,6,Guadeloupe,0,0
+16.25,-61.5833,6,Guadeloupe,0,0
 9.3077,2.3158,1,Benin,0,0
 71.7069,-42.6043,1,Greenland,0,0
 6.4281,-9.4295,1,Liberia,0,0
--12.8275,45.1662,1,Mayotte,0,0
--12.8275,45.1662,1,Mayotte,0,0
--12.8275,45.1662,1,Mayotte,0,0
--12.8275,45.1662,1,Mayotte,0,0
 12.1696,-68.99,1,Curacao,0,0
 -1.44,15.556,1,Republic of the Congo,0,0
 5.1521,46.1996,1,Somalia,0,0
