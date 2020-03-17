@@ -31,7 +31,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 28.0339,1.6596,54,Algerien,4,12
 45.1,15.2,57,Kroatien,0,2
 46.8182,8.2275,2200,Schweiz,14,4
-47.5162,14.5501,1132,Österreich,3,8
+47.5162,14.5501,1332,Österreich,3,8
 31.0,35.0,255,Israel,0,4
 30.3753,69.3451,136,Pakistan,0,2
 -14.235,-51.9253,200,Brasilien,0,1
