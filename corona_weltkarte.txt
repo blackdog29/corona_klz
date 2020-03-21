@@ -226,197 +226,197 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 18.1096,-77.2975,16.0,Jamaika,1.0,2.0
 38.9637,35.2433,359.0,Türkei,4.0,0.0
 36.1408,-5.3536,10.0,Gibraltar,0.0,2.0
-47.6477,-122.6413,,"Kitsap, WA",,
-38.3105,-121.9018,,"Solano, CA",,
-37.0454,-121.958,,"Santa Cruz, CA",,
-38.5025,-122.2654,,"Napa, CA",,
-34.3705,-119.1391,,"Ventura, CA",,
-42.4097,-71.8571,,"Worcester, MA",,
-33.9191,-84.0167,,"Gwinnett, GA",,
-33.7956,-84.2279,,"DeKalb, GA",,
-37.5455,-82.7779,,"Floyd, GA",,
-33.4502,-84.4803,,"Fayette, GA",,
-32.4893,-94.8521,,"Gregg, TX",,
-40.2589,-74.124,,"Monmouth, NJ",,
-40.0712,-74.8649,,"Burlington, NJ",,
-39.9259,-75.1196,,"Camden, NJ",,
-40.8568,-74.1285,,"Passaic, NJ",,
-40.6976,-74.2632,,"Union, NJ",,
-39.6553,-106.8287,,"Eagle, CO",,
-40.6956,-105.5943,,"Larimer, CO",,
-39.6203,-104.3326,,"Arapahoe, CO",,
-38.5458,-106.9253,,"Gunnison, CO",,
-41.9879,-88.4016,,"Kane, IL",,
-41.0458,-75.2479,,"Monroe, PA",,
-39.9526,-75.1652,,"Philadelphia, PA",,
-36.8508,-76.2859,,"Norfolk, VA",,
-38.8816,-77.09100000000002,,"Arlington, VA",,
-38.2042,-77.6078,,"Spotsylvania, VA",,
-39.0768,-77.6536,,"Loudoun, VA",,
-38.7849,-76.8721,,"Prince George's, MD",,
-41.3912,-95.4778,,"Pottawattamie, IA",,
-34.2465,-80.607,,"Camden, NC",,
-32.0575,-111.6661,,"Pima, AZ",,
-41.4277,-85.355,,"Noble, IN",,
-39.8522,-77.2865,,"Adams, IN",,
-40.0106,-86.4997,,"Boone, IN",,
-43.0186,-89.5498,,"Dane, WI",,
-44.7509,-92.3814,,"Pierce, WI",,
-41.4339,-81.6758,,"Cuyahoga, OH",,
-41.2603,-111.9522,,"Weber, UT",,
-43.0279,-73.135,,"Bennington County, VT",,
-44.8254,-93.7842,,"Carver County, MN",,
-26.8946,-81.9098,,"Charlotte County, FL",,
-34.2515,-84.4803,,"Cherokee County, GA",,
-33.1795,-96.493,,"Collin County, TX",,
-38.1938,-85.6435,,"Jefferson County, KY",,
-29.6499,-90.1121,,"Jefferson Parish, LA",,
-40.7909,-121.8474,,"Shasta County, CA",,
-34.8606,-81.9535,,"Spartanburg County, SC",,
-38.4333,-84.3542,,"Harrison County, KY",,
-41.6699,-91.5984,,"Johnson County, IA",,
-42.3118,-73.1822,,"Berkshire County, MA",,
-36.1343,-86.822,,"Davidson County, TN",,
-43.1261,-123.2492,,"Douglas County, OR",,
-36.9859,-119.2321,,"Fresno County, CA",,
-39.5839,-76.3637,,"Harford County, MD",,
-39.8065,-86.5401,,"Hendricks County, IN",,
-40.7453,-74.0535,,"Hudson County, NJ",,
-38.8454,-94.8521,,"Johnson County, KS",,
-47.175,-120.9319,,"Kittitas County, WA",,
-27.4799,-82.3452,,"Manatee County, FL",,
-44.8446,-122.5927,,"Marion County, OR",,
-30.5773,-86.6611,,"Okaloosa County, FL",,
-34.0132,-85.1479,,"Polk County, GA",,
-33.9533,-117.3961,,"Riverside County, CA",,
-35.1269,-89.9253,,"Shelby County, TN",,
-38.6103,-90.4125,,"St. Louis County, MO",,
-40.9849,-72.6151,,"Suffolk County, NY",,
-41.8586,-74.3118,,"Ulster County, NY",,
-29.028,-81.0755,,"Volusia County, FL",,
-38.9085,-77.2405,,"Fairfax County, VA",,
-42.9931,-71.0498,,"Rockingham County, NH",,
-38.9072,-77.0369,,"Washington, D.C.",,
-40.229,-75.3879,,"Montgomery County, PA",,
-37.6017,-121.7195,,"Alameda County, CA",,
-26.1901,-80.3659,,"Broward County, FL",,
-26.663,-81.9535,,"Lee County, FL",,
-32.8162,-111.2845,,"Pinal County, AZ",,
-41.1489,-73.983,,"Rockland County, NY",,
-43.0324,-73.936,,"Saratoga County, NY",,
-32.7957,-79.7848,,"Charleston County, SC",,
-45.7466,-122.5194,,"Clark County, WA",,
-33.8999,-84.5641,,"Cobb County, GA",,
-40.9629,-112.0953,,"Davis County, UT",,
-38.9108,-104.4723,,"El Paso County, CO",,
-21.307,-157.8584,,"Honolulu County, HI",,
-42.3345,-122.7647,,"Jackson County, OR ",,
-47.7425,-123.304,,"Jefferson County, WA",,
-34.3672,-80.5883,,"Kershaw County, SC",,
-42.6953,-121.6142,,"Klamath County, OR",,
-37.2519,-119.6963,,"Madera County, CA",,
-47.0676,-122.1295,,"Pierce County, WA",,
-36.1593,-95.941,,"Tulsa County, OK",,
-39.2587,-104.9389,,"Douglas County, CO",,
-41.8882,-71.4774,,"Providence County, RI",,
-35.7211,-79.1781,,"Chatham County, NC",,
-39.9078,-75.3879,,"Delaware County, PA",,
-41.3148,-96.1951,,"Douglas County, NE",,
-38.0606,-84.4803,,"Fayette County, KY",,
-39.8362,-86.1752,,"Marion County, IN",,
-42.4672,-71.2874,,"Middlesex County, MA",,
-40.6546,-73.5594,,"Nassau County, NY",,
-44.9964,-93.0616,,"Ramsey County, MN",,
-40.5608,-119.6035,,"Washoe County, NV",,
-41.6739,-75.2479,,"Wayne County, PA",,
-38.7646,-121.9018,,"Yolo County, CA",,
-37.3541,-121.9552,,"Santa Clara County, CA",,
-36.0796,-115.094,,"Clark County, NV",,
-29.5693,-95.8143,,"Fort Bend County, TX",,
-47.1981,-119.3732,,"Grant County, WA",,
-30.769,-86.9824,,"Santa Rosa County, FL",,
-35.9179,-86.8622,,"Williamson County, TN",,
-40.7128,-74.006,,"New York County, NY",,
-39.1547,-77.2405,,"Montgomery County, MD",,
-42.3601,-71.0589,,"Suffolk County, MA",,
-39.7392,-104.9903,,"Denver County, CO",,
-39.5912,-106.064,,"Summit County, CO",,
-40.9263,-74.077,,"Bergen County, NJ",,
-29.7752,-95.3103,,"Harris County, TX",,
-37.7749,-122.4194,,"San Francisco County, CA",,
-37.8534,-121.9018,,"Contra Costa County, CA",,
-33.7879,-117.8531,,"Orange County, CA",,
-42.1767,-71.1449,,"Norfolk County, MA",,
-33.2918,-112.4291,,"Maricopa County, AZ",,
-35.8032,-78.5661,,"Wake County, NC",,
-41.122,-73.7949,,"Westchester County, NY",,
-43.9088,-71.82600000000002,,"Grafton County, NH",,
-27.9904,-82.3018,,"Hillsborough, FL",,
-39.0916,-120.8039,,"Placer County, CA",,
-37.563,-122.3255,,"San Mateo, CA",,
-38.578,-122.9888,,"Sonoma County, CA",,
-45.775,-118.7606,,"Umatilla, OR",,
-33.8034,-84.3963,,"Fulton County, GA",,
-45.547,-123.1386,,"Washington County, OR",,
-48.033,-121.8339,,"Snohomish County, WA",,
-40.745,-123.8695,,"Humboldt County, CA",,
-38.4747,-121.3542,,"Sacramento County, CA",,
-32.7157,-117.1611,,"San Diego County, CA",,
-36.5761,-120.9876,,"San Benito, CA",,
-34.0522,-118.2437,,"Los Angeles, CA",,
-47.6062,-122.3321,,"King County, WA",,
-41.7377,-87.6976,,"Cook County, IL",,
-48.4242,-121.7114,,"Skagit, WA",,
-46.8646,-122.7696,,"Thurston, WA",,
-48.1976,-122.5795,,"Island, WA",,
-48.8787,-121.9719,,"Whatcom, WA",,
-38.0834,-122.7633,,"Marin, CA",,
-38.196,-120.6805,,"Calaveras, CA",,
-37.5091,-120.9876,,"Stanislaus, CA",,
-36.6066,-120.189,,"San Joaquin, CA",,
-42.632,-70.7829,,"Essex, MA",,
-30.7917,-82.0843,,"Charlton, GA",,
-26.07,-81.4279,,"Collier, FL",,
-27.8764,-82.7779,,"Pinellas, FL",,
-29.7938,-82.4944,,"Alachua, FL",,
-30.5927,-81.8224,,"Nassau, FL",,
-28.3232,-82.4319,,"Pasco, FL",,
-32.7767,-96.797,,"Dallas, TX",,
-32.7732,-97.3517,,"Tarrant, TX",,
-30.3883,-95.6963,,"Montgomery, TX",,
-40.5726,-74.4927,,"Middlesex, NJ",,
-39.58,-105.2663,,"Jefferson, CO",,
-45.5146,-122.5863,,"Multnomah, OR",,
-44.9267,-123.4919,,"Polk, OR",,
-43.8325,-121.2617,,"Deschutes, OR",,
-42.3334,-88.2668,,"McHenry, IL",,
-42.3689,-87.8272,,"Lake, IL",,
-40.4108,-75.2479,,"Bucks, PA",,
-37.7772,-77.5161,,"Hanover, VA",,
-34.7253,-80.6771,,"Lancaster, SC",,
-36.4933,-82.3452,,"Sullivan, TN",,
-39.4638,-86.1345,,"Johnson, IN",,
-40.4483,-86.1345,,"Howard, IN",,
-41.6228,-86.3377,,"St. Joseph, IN",,
-42.6712,-97.8722,,"Knox, NE",,
-40.8685,-81.2519,,"Stark, OH",,
-45.3293,-93.2197,,"Anoka, MN",,
-43.9952,-92.3814,,"Olmsted, MN",,
-40.8298,-110.9984,,"Summit, UT",,
-41.256,-73.3709,,"Fairfield, CT",,
-41.7866,-73.2765,,"Litchfield, CT",,
-29.9511,-90.0715,,"Orleans, LA",,
-43.8901,-102.2548,,"Pennington, SD",,
-44.4797,-98.2213,,"Beadle, SD",,
-43.0985,-98.3965,,"Charles Mix, SD",,
-43.7242,-98.2213,,"Davison, SD",,
-43.6632,-96.8351,,"Minnehaha, SD",,
-42.9815,-97.8722,,"Bon Homme, SD",,
-33.8837,-106.7235,,"Socorro, NM",,
-35.0178,-106.6291,,"Bernalillo, NM",,
-42.5922,-83.3362,,"Oakland, MI",,
-42.2791,-83.3362,,"Wayne, MI",,
-39.5393,-75.6674,,"New Castle, DE",,
+47.6477,-122.6413,,"Kitsap, WA",,0.0
+38.3105,-121.9018,,"Solano, CA",,0.0
+37.0454,-121.958,,"Santa Cruz, CA",,0.0
+38.5025,-122.2654,,"Napa, CA",,0.0
+34.3705,-119.1391,,"Ventura, CA",,0.0
+42.4097,-71.8571,,"Worcester, MA",,0.0
+33.9191,-84.0167,,"Gwinnett, GA",,0.0
+33.7956,-84.2279,,"DeKalb, GA",,0.0
+37.5455,-82.7779,,"Floyd, GA",,0.0
+33.4502,-84.4803,,"Fayette, GA",,0.0
+32.4893,-94.8521,,"Gregg, TX",,0.0
+40.2589,-74.124,,"Monmouth, NJ",,0.0
+40.0712,-74.8649,,"Burlington, NJ",,0.0
+39.9259,-75.1196,,"Camden, NJ",,0.0
+40.8568,-74.1285,,"Passaic, NJ",,0.0
+40.6976,-74.2632,,"Union, NJ",,0.0
+39.6553,-106.8287,,"Eagle, CO",,0.0
+40.6956,-105.5943,,"Larimer, CO",,0.0
+39.6203,-104.3326,,"Arapahoe, CO",,0.0
+38.5458,-106.9253,,"Gunnison, CO",,0.0
+41.9879,-88.4016,,"Kane, IL",,0.0
+41.0458,-75.2479,,"Monroe, PA",,0.0
+39.9526,-75.1652,,"Philadelphia, PA",,0.0
+36.8508,-76.2859,,"Norfolk, VA",,0.0
+38.8816,-77.09100000000002,,"Arlington, VA",,0.0
+38.2042,-77.6078,,"Spotsylvania, VA",,0.0
+39.0768,-77.6536,,"Loudoun, VA",,0.0
+38.7849,-76.8721,,"Prince George's, MD",,0.0
+41.3912,-95.4778,,"Pottawattamie, IA",,0.0
+34.2465,-80.607,,"Camden, NC",,0.0
+32.0575,-111.6661,,"Pima, AZ",,0.0
+41.4277,-85.355,,"Noble, IN",,0.0
+39.8522,-77.2865,,"Adams, IN",,0.0
+40.0106,-86.4997,,"Boone, IN",,0.0
+43.0186,-89.5498,,"Dane, WI",,0.0
+44.7509,-92.3814,,"Pierce, WI",,0.0
+41.4339,-81.6758,,"Cuyahoga, OH",,0.0
+41.2603,-111.9522,,"Weber, UT",,0.0
+43.0279,-73.135,,"Bennington County, VT",,0.0
+44.8254,-93.7842,,"Carver County, MN",,0.0
+26.8946,-81.9098,,"Charlotte County, FL",,0.0
+34.2515,-84.4803,,"Cherokee County, GA",,0.0
+33.1795,-96.493,,"Collin County, TX",,0.0
+38.1938,-85.6435,,"Jefferson County, KY",,0.0
+29.6499,-90.1121,,"Jefferson Parish, LA",,0.0
+40.7909,-121.8474,,"Shasta County, CA",,0.0
+34.8606,-81.9535,,"Spartanburg County, SC",,0.0
+38.4333,-84.3542,,"Harrison County, KY",,0.0
+41.6699,-91.5984,,"Johnson County, IA",,0.0
+42.3118,-73.1822,,"Berkshire County, MA",,0.0
+36.1343,-86.822,,"Davidson County, TN",,0.0
+43.1261,-123.2492,,"Douglas County, OR",,0.0
+36.9859,-119.2321,,"Fresno County, CA",,0.0
+39.5839,-76.3637,,"Harford County, MD",,0.0
+39.8065,-86.5401,,"Hendricks County, IN",,0.0
+40.7453,-74.0535,,"Hudson County, NJ",,0.0
+38.8454,-94.8521,,"Johnson County, KS",,0.0
+47.175,-120.9319,,"Kittitas County, WA",,0.0
+27.4799,-82.3452,,"Manatee County, FL",,0.0
+44.8446,-122.5927,,"Marion County, OR",,0.0
+30.5773,-86.6611,,"Okaloosa County, FL",,0.0
+34.0132,-85.1479,,"Polk County, GA",,0.0
+33.9533,-117.3961,,"Riverside County, CA",,0.0
+35.1269,-89.9253,,"Shelby County, TN",,0.0
+38.6103,-90.4125,,"St. Louis County, MO",,0.0
+40.9849,-72.6151,,"Suffolk County, NY",,0.0
+41.8586,-74.3118,,"Ulster County, NY",,0.0
+29.028,-81.0755,,"Volusia County, FL",,0.0
+38.9085,-77.2405,,"Fairfax County, VA",,0.0
+42.9931,-71.0498,,"Rockingham County, NH",,0.0
+38.9072,-77.0369,,"Washington, D.C.",,0.0
+40.229,-75.3879,,"Montgomery County, PA",,0.0
+37.6017,-121.7195,,"Alameda County, CA",,0.0
+26.1901,-80.3659,,"Broward County, FL",,0.0
+26.663,-81.9535,,"Lee County, FL",,0.0
+32.8162,-111.2845,,"Pinal County, AZ",,0.0
+41.1489,-73.983,,"Rockland County, NY",,0.0
+43.0324,-73.936,,"Saratoga County, NY",,0.0
+32.7957,-79.7848,,"Charleston County, SC",,0.0
+45.7466,-122.5194,,"Clark County, WA",,0.0
+33.8999,-84.5641,,"Cobb County, GA",,0.0
+40.9629,-112.0953,,"Davis County, UT",,0.0
+38.9108,-104.4723,,"El Paso County, CO",,0.0
+21.307,-157.8584,,"Honolulu County, HI",,0.0
+42.3345,-122.7647,,"Jackson County, OR ",,0.0
+47.7425,-123.304,,"Jefferson County, WA",,0.0
+34.3672,-80.5883,,"Kershaw County, SC",,0.0
+42.6953,-121.6142,,"Klamath County, OR",,0.0
+37.2519,-119.6963,,"Madera County, CA",,0.0
+47.0676,-122.1295,,"Pierce County, WA",,0.0
+36.1593,-95.941,,"Tulsa County, OK",,0.0
+39.2587,-104.9389,,"Douglas County, CO",,0.0
+41.8882,-71.4774,,"Providence County, RI",,0.0
+35.7211,-79.1781,,"Chatham County, NC",,0.0
+39.9078,-75.3879,,"Delaware County, PA",,0.0
+41.3148,-96.1951,,"Douglas County, NE",,0.0
+38.0606,-84.4803,,"Fayette County, KY",,0.0
+39.8362,-86.1752,,"Marion County, IN",,0.0
+42.4672,-71.2874,,"Middlesex County, MA",,0.0
+40.6546,-73.5594,,"Nassau County, NY",,0.0
+44.9964,-93.0616,,"Ramsey County, MN",,0.0
+40.5608,-119.6035,,"Washoe County, NV",,0.0
+41.6739,-75.2479,,"Wayne County, PA",,0.0
+38.7646,-121.9018,,"Yolo County, CA",,0.0
+37.3541,-121.9552,,"Santa Clara County, CA",,0.0
+36.0796,-115.094,,"Clark County, NV",,0.0
+29.5693,-95.8143,,"Fort Bend County, TX",,0.0
+47.1981,-119.3732,,"Grant County, WA",,0.0
+30.769,-86.9824,,"Santa Rosa County, FL",,0.0
+35.9179,-86.8622,,"Williamson County, TN",,0.0
+40.7128,-74.006,,"New York County, NY",,0.0
+39.1547,-77.2405,,"Montgomery County, MD",,0.0
+42.3601,-71.0589,,"Suffolk County, MA",,0.0
+39.7392,-104.9903,,"Denver County, CO",,0.0
+39.5912,-106.064,,"Summit County, CO",,0.0
+40.9263,-74.077,,"Bergen County, NJ",,0.0
+29.7752,-95.3103,,"Harris County, TX",,0.0
+37.7749,-122.4194,,"San Francisco County, CA",,0.0
+37.8534,-121.9018,,"Contra Costa County, CA",,0.0
+33.7879,-117.8531,,"Orange County, CA",,0.0
+42.1767,-71.1449,,"Norfolk County, MA",,0.0
+33.2918,-112.4291,,"Maricopa County, AZ",,0.0
+35.8032,-78.5661,,"Wake County, NC",,0.0
+41.122,-73.7949,,"Westchester County, NY",,0.0
+43.9088,-71.82600000000002,,"Grafton County, NH",,0.0
+27.9904,-82.3018,,"Hillsborough, FL",,0.0
+39.0916,-120.8039,,"Placer County, CA",,0.0
+37.563,-122.3255,,"San Mateo, CA",,0.0
+38.578,-122.9888,,"Sonoma County, CA",,0.0
+45.775,-118.7606,,"Umatilla, OR",,0.0
+33.8034,-84.3963,,"Fulton County, GA",,0.0
+45.547,-123.1386,,"Washington County, OR",,0.0
+48.033,-121.8339,,"Snohomish County, WA",,0.0
+40.745,-123.8695,,"Humboldt County, CA",,0.0
+38.4747,-121.3542,,"Sacramento County, CA",,0.0
+32.7157,-117.1611,,"San Diego County, CA",,0.0
+36.5761,-120.9876,,"San Benito, CA",,0.0
+34.0522,-118.2437,,"Los Angeles, CA",,0.0
+47.6062,-122.3321,,"King County, WA",,0.0
+41.7377,-87.6976,,"Cook County, IL",,0.0
+48.4242,-121.7114,,"Skagit, WA",,0.0
+46.8646,-122.7696,,"Thurston, WA",,0.0
+48.1976,-122.5795,,"Island, WA",,0.0
+48.8787,-121.9719,,"Whatcom, WA",,0.0
+38.0834,-122.7633,,"Marin, CA",,0.0
+38.196,-120.6805,,"Calaveras, CA",,0.0
+37.5091,-120.9876,,"Stanislaus, CA",,0.0
+36.6066,-120.189,,"San Joaquin, CA",,0.0
+42.632,-70.7829,,"Essex, MA",,0.0
+30.7917,-82.0843,,"Charlton, GA",,0.0
+26.07,-81.4279,,"Collier, FL",,0.0
+27.8764,-82.7779,,"Pinellas, FL",,0.0
+29.7938,-82.4944,,"Alachua, FL",,0.0
+30.5927,-81.8224,,"Nassau, FL",,0.0
+28.3232,-82.4319,,"Pasco, FL",,0.0
+32.7767,-96.797,,"Dallas, TX",,0.0
+32.7732,-97.3517,,"Tarrant, TX",,0.0
+30.3883,-95.6963,,"Montgomery, TX",,0.0
+40.5726,-74.4927,,"Middlesex, NJ",,0.0
+39.58,-105.2663,,"Jefferson, CO",,0.0
+45.5146,-122.5863,,"Multnomah, OR",,0.0
+44.9267,-123.4919,,"Polk, OR",,0.0
+43.8325,-121.2617,,"Deschutes, OR",,0.0
+42.3334,-88.2668,,"McHenry, IL",,0.0
+42.3689,-87.8272,,"Lake, IL",,0.0
+40.4108,-75.2479,,"Bucks, PA",,0.0
+37.7772,-77.5161,,"Hanover, VA",,0.0
+34.7253,-80.6771,,"Lancaster, SC",,0.0
+36.4933,-82.3452,,"Sullivan, TN",,0.0
+39.4638,-86.1345,,"Johnson, IN",,0.0
+40.4483,-86.1345,,"Howard, IN",,0.0
+41.6228,-86.3377,,"St. Joseph, IN",,0.0
+42.6712,-97.8722,,"Knox, NE",,0.0
+40.8685,-81.2519,,"Stark, OH",,0.0
+45.3293,-93.2197,,"Anoka, MN",,0.0
+43.9952,-92.3814,,"Olmsted, MN",,0.0
+40.8298,-110.9984,,"Summit, UT",,0.0
+41.256,-73.3709,,"Fairfield, CT",,0.0
+41.7866,-73.2765,,"Litchfield, CT",,0.0
+29.9511,-90.0715,,"Orleans, LA",,0.0
+43.8901,-102.2548,,"Pennington, SD",,0.0
+44.4797,-98.2213,,"Beadle, SD",,0.0
+43.0985,-98.3965,,"Charles Mix, SD",,0.0
+43.7242,-98.2213,,"Davison, SD",,0.0
+43.6632,-96.8351,,"Minnehaha, SD",,0.0
+42.9815,-97.8722,,"Bon Homme, SD",,0.0
+33.8837,-106.7235,,"Socorro, NM",,0.0
+35.0178,-106.6291,,"Bernalillo, NM",,0.0
+42.5922,-83.3362,,"Oakland, MI",,0.0
+42.2791,-83.3362,,"Wayne, MI",,0.0
+39.5393,-75.6674,,"New Castle, DE",,0.0
 22.0,-80.0,16.0,Kuba,1.0,0.0
 5.0,-58.75,7.0,Guyana,1.0,0.0
 -35.4735,149.0124,6.0,Australian Capital Territory,0.0,0.0
@@ -439,8 +439,6 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 7.9465,-1.0232,16.0,Ghana,0.0,0.0
 18.2208,-66.5901,14.0,Puerto Rico,0.0,0.0
 18.2208,-66.5901,14.0,Puerto Rico,0.0,0.0
-18.2208,-66.5901,14.0,Puerto Rico,0.0,0.0
-18.2208,-66.5901,14.0,Puerto Rico,0.0,0.0
 -22.9576,18.4904,3.0,Namibia,0.0,0.0
 -4.6796,55.492,7.0,Seychellen,0.0,0.0
 10.6918,-61.2225,9.0,Trinidad und Tobago,0.0,0.0
@@ -455,10 +453,6 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 3.9193,-56.0278,4.0,Surinam,0.0,0.0
 3.9339,-53.1258,0.0,French Guiana,0.0,0.0
 3.9339,-53.1258,0.0,French Guiana,0.0,0.0
-3.9339,-53.1258,0.0,French Guiana,0.0,0.0
-3.9339,-53.1258,0.0,French Guiana,0.0,0.0
-13.4443,144.7937,14.0,Guam,0.0,0.0
-13.4443,144.7937,14.0,Guam,0.0,0.0
 13.4443,144.7937,14.0,Guam,0.0,0.0
 13.4443,144.7937,14.0,Guam,0.0,0.0
 42.6026,20.903,2.0,Kosovo,0.0,0.0
@@ -472,13 +466,9 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 1.5,10.0,6.0,Äquatorialguinea,0.0,0.0
 -12.8275,45.1662,0.0,Mayotte,0.0,0.0
 -12.8275,45.1662,0.0,Mayotte,0.0,0.0
--12.8275,45.1662,0.0,Mayotte,0.0,0.0
--12.8275,45.1662,0.0,Mayotte,0.0,0.0
 41.3775,64.5853,33.0,Usbekistan,0.0,0.0
 52.1326,5.2913,2994.0,Niederlande,106.0,2.0
 44.682,-63.7443,15.0,Nova Scotia,0.0,0.0
-16.25,-61.5833,0.0,Guadeloupe,0.0,0.0
-16.25,-61.5833,0.0,Guadeloupe,0.0,0.0
 16.25,-61.5833,0.0,Guadeloupe,0.0,0.0
 16.25,-61.5833,0.0,Guadeloupe,0.0,0.0
 9.3077,2.3158,2.0,Benin,0.0,0.0
@@ -486,10 +476,8 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 12.1696,-68.99,3.0,Curacao,1.0,0.0
 5.1521,46.1996,1.0,Somalia,0.0,0.0
 -6.369,34.8888,6.0,Tanzania,0.0,0.0
-18.3358,-64.8963,,Virgin Islands,,
+18.3358,-64.8963,,Virgin Islands,,0.0
 19.3133,-81.2546,3.0,Kaimaninseln,1.0,0.0
--21.1351,55.2471,0.0,Wiedervereinigung,0.0,0.0
--21.1351,55.2471,0.0,Wiedervereinigung,0.0,0.0
 -21.1351,55.2471,0.0,Wiedervereinigung,0.0,0.0
 -21.1351,55.2471,0.0,Wiedervereinigung,0.0,0.0
 13.1939,-59.5432,5.0,Barbados,0.0,0.0
@@ -504,8 +492,6 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 25.0343,-77.3963,3.0,"Bahamas, The",0.0,0.0
 71.7069,-42.6043,2.0,Greenland,0.0,0.0
 71.7069,-42.6043,2.0,Greenland,0.0,0.0
-71.7069,-42.6043,2.0,Greenland,0.0,0.0
-71.7069,-42.6043,2.0,Greenland,0.0,0.0
 -20.9043,165.618,2.0,New Caledonia,0.0,0.0
 32.3078,-64.7505,2.0,Bermuda,0.0,0.0
 15.4542,18.7322,1.0,Chad,0.0,0.0
@@ -514,45 +500,31 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 12.8654,-85.2072,1.0,Nicaragua,0.0,0.0
 16.265,-61.551,45.0,Guadeloupe,0.0,0.0
 16.265,-61.551,45.0,Guadeloupe,0.0,0.0
-16.265,-61.551,45.0,Guadeloupe,0.0,0.0
-16.265,-61.551,45.0,Guadeloupe,0.0,0.0
--21.1151,55.5364,28.0,Wiedervereinigung,0.0,0.0
--21.1151,55.5364,28.0,Wiedervereinigung,0.0,0.0
 -21.1151,55.5364,28.0,Wiedervereinigung,0.0,0.0
 -21.1151,55.5364,28.0,Wiedervereinigung,0.0,0.0
 3.9339,-53.1258,15.0,French Guiana,0.0,0.0
 3.9339,-53.1258,15.0,French Guiana,0.0,0.0
-3.9339,-53.1258,15.0,French Guiana,0.0,0.0
-3.9339,-53.1258,15.0,French Guiana,0.0,0.0
--12.8275,45.1662,6.0,Mayotte,0.0,0.0
--12.8275,45.1662,6.0,Mayotte,0.0,0.0
 -12.8275,45.1662,6.0,Mayotte,0.0,0.0
 -12.8275,45.1662,6.0,Mayotte,0.0,0.0
 -18.7669,46.8691,3.0,Madagascar,0.0,0.0
-18.3358,-64.8963,3.0,United States Virgin Islands,0.0,0.0
+18.3358,-64.8963,3.0,United States Virgin Islands,0.0,
 18.9712,-72.2852,2.0,Haiti,0.0,0.0
 -11.2027,17.8739,1.0,Angola,0.0,0.0
 16.5388,-23.0418,1.0,Cabo Verde,0.0,0.0
 18.0425,-63.0548,1.0,Sint Maarten,0.0,0.0
 17.6078,8.0817,1.0,Niger,0.0,0.0
 -6.315,143.9555,1.0,Papua New Guinea,0.0,0.0
-37.0902,-95.7129,1.0,USA,0.0,147.0
+37.0902,-95.7129,1.0,USA,0.0,
 54.2361,-4.5481,1.0,Isle of Man,0.0,0.0
 -20.0,30.0,1.0,Zimbabwe,0.0,0.0
 72.0,-40.0,0.0,Greenland,0.0,0.0
 72.0,-40.0,0.0,Greenland,0.0,0.0
-72.0,-40.0,0.0,Greenland,0.0,0.0
-72.0,-40.0,0.0,Greenland,0.0,0.0
 13.4443,144.7937,0.0,Guam,0.0,0.0
 13.4443,144.7937,0.0,Guam,0.0,0.0
-13.4443,144.7937,0.0,Guam,0.0,0.0
-13.4443,144.7937,0.0,Guam,0.0,0.0
-49.45,-2.58,0.0,Guernsey,0.0,0.0
-49.19,-2.11,0.0,Jersey,0.0,0.0
+49.45,-2.58,0.0,Guernsey,0.0,
+49.19,-2.11,0.0,Jersey,0.0,
 18.2,-66.5,0.0,Puerto Rico,0.0,0.0
 18.2,-66.5,0.0,Puerto Rico,0.0,0.0
-18.2,-66.5,0.0,Puerto Rico,0.0,0.0
-18.2,-66.5,0.0,Puerto Rico,0.0,0.0
--1.44,15.556,0.0,Republic of the Congo,0.0,0.0
-24.25,-76.0,0.0,The Bahamas,0.0,0.0
-13.4667,-16.6,0.0,The Gambia,0.0,0.0
+-1.44,15.556,0.0,Republic of the Congo,0.0,
+24.25,-76.0,0.0,The Bahamas,0.0,
+13.4667,-16.6,0.0,The Gambia,0.0,
