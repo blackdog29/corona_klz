@@ -1,0 +1,2 @@
+Neue Fälle,Neue Fälle Trend,Todesfälle,Todesfälle Trend,Testungen,Testungen Trend,Geheilte,Geheilte Trend
+4264,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/trend-steady.svg,29,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/trend-steady.svg,23917,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/trend-steady.svg,3,https://interaktiv.kleinezeitung.at/wp-content/uploads/2020/01/trend-steady.svg
