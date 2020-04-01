@@ -34,3 +34,4 @@ Datum,Bestätigte Fälle,Todesfälle,Geheilte,Aktuelle Erkrankungen
 3/28/20,8271,68,225,7978
 3/29/20,8788,86,479,8223
 3/30/20,9618,108,636,8874
+3/31/20,10180,128,1095,8957
