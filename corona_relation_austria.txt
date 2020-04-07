@@ -40,3 +40,4 @@ Datum,Bestätigte Fälle,Todesfälle,Geheilte,Aktuelle Erkrankungen
 4/3/20,11524,168,2022,9334
 4/4/20,11781,186,2507,9088
 4/5/20,12051,204,2998,8849
+4/6/20,12297,220,3463,8614
