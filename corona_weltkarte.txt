@@ -265,7 +265,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 8.460555000000001,-11.779889,6,Sierra Leone,0,0
 12.1784,-68.2385,2,"Bonaire, Sint Eustatius and Saba",0,0
 -13.254307999999998,34.301525,5,Malawi,0,0
--51.7963,-59.5236,2,Falkland Islands (Islas Malvinas),0,0
+-51.7963,-59.5236,2,Falkland Islands (Malvinas),0,0
 46.8852,-56.3159,1,Saint Pierre and Miquelon,0,0
 6.877000000000001,31.307,1,South Sudan,0,0
 24.2155,-12.8858,4,Western Sahara,0,0
