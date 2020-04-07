@@ -231,7 +231,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 16.7425,-62.1874,6,Montserrat,0,0
 55.3781,-3.4360000000000004,51608,Vereinigtes Königreich,5373,135
 -32.5228,-55.7658,406,Uruguay,6,104
-37.0902,-95.7129,366614,USA,10783,19581
+37.0902,-95.7129,366667,USA,10783,19581
 41.3775,64.5853,457,Usbekistan,2,30
 6.4238,-66.5897,165,Venezuela,7,65
 16.0,108.0,245,Vietnam,0,95
@@ -242,7 +242,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 15.415,-61.371,15,Dominica,0,1
 12.1165,-61.678999999999995,12,Grenada,0,0
 -18.665695,35.529562,10,Mozambique,0,1
-34.802075,38.99681500000001,19,Syria,2,2
+34.802075,38.996815000000005,19,Syria,2,2
 -8.874217,125.727539,1,Timor-Leste,0,0
 13.1939,-59.5432,7,Belize,1,0
 0.0,0.0,0,Recovered,0,0
@@ -250,7 +250,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 26.3351,17.228331,19,Libya,1,1
 31.9522,35.2332,254,West Bank and Gaza,1,24
 11.8037,-15.1804,18,Guinea-Bissau,0,0
-17.570692,-3.996166000000001,47,Mali,5,9
+17.570692,-3.9961660000000006,47,Mali,5,9
 17.357822,-62.782998,10,Saint Kitts and Nevis,0,0
 64.8255,-124.8457,5,Northwest Territories,0,0
 64.2823,-135.0,6,Yukon,0,0
@@ -258,7 +258,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 21.9162,95.956,22,Burma,1,0
 18.2206,-63.0686,3,Anguilla,0,0
 18.4207,-64.64,3,British Virgin Islands,0,0
-21.69400000000001,-71.7979,8,Turks and Caicos Islands,1,0
+21.694000000000003,-71.7979,8,Turks and Caicos Islands,1,0
 0.0,0.0,9,MS Zaandam,2,0
 -22.3285,24.6849,6,Botswana,1,0
 -3.3731,29.9189,3,Burundi,0,0
@@ -267,6 +267,6 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 -13.254307999999998,34.301525,5,Malawi,0,0
 -51.7963,-59.5236,2,Falkland Islands (Islas Malvinas),0,0
 46.8852,-56.3159,1,Saint Pierre and Miquelon,0,0
-6.877000000000002,31.307,1,South Sudan,0,0
+6.877000000000001,31.307,1,South Sudan,0,0
 24.2155,-12.8858,4,Western Sahara,0,0
 0.18636,6.613081,4,Sao Tome and Principe,0,0
