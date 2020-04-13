@@ -94,7 +94,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 7.54,-5.5471,574,Cote d'Ivoire,5,85
 45.1,15.2,1600,Kroatien,23,373
 0.0,0.0,712,Diamond Princess,11,619
-0.0,0.0,712,Diamond Princess,-1,619
+0.0,0.0,712,Diamond Princess,1,619
 22.0,-80.0,669,Kuba,18,92
 35.1264,33.4299,633,Zypern,11,65
 49.8175,15.472999999999999,5991,Tschechien,138,464
@@ -238,7 +238,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 -15.4167,28.2833,43,Zambia,2,30
 -20.0,30.0,14,Zimbabwe,3,0
 0.0,0.0,-1,Diamond Princess,11,619
-0.0,0.0,-1,Diamond Princess,-1,619
+0.0,0.0,-1,Diamond Princess,1,619
 15.415,-61.371,16,Dominica,0,8
 12.1165,-61.678999999999995,14,Grenada,0,0
 -18.665695,35.529562,21,Mozambique,0,2
