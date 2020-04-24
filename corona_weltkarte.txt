@@ -122,7 +122,7 @@ Lat,Long,Bestätigte Fälle,Region,Todesfälle,Geheilte
 17.9,-62.8333,6,Saint Barthelemy,0,6
 18.0708,-63.0501,38,St Martin,2,19
 14.6415,-61.0242,164,Martinique,14,73
-46.2276,2.2137,158183,Frankreich,21856,42088
+46.2276,2.2137,157026,Frankreich,21856,42088
 -0.8037,11.6094,167,Gabun,2,24
 13.4432,-15.3101,10,Gambia,1,2
 42.3154,43.3569,425,Georgien,5,111
